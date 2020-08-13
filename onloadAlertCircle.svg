@@ -1,0 +1,5 @@
+<svg onload=alert(1)><circle
+cx="0"
+cy="0"
+r="24"
+fill="#c8c8c8"/></svg>
