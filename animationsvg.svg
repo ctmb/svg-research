@@ -1,0 +1,1 @@
+<style>@keyframes x{}</style><svg style="animation-name:x" onanimationend="alert(1)"></svg>
